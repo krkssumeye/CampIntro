@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ders6DegerVeReferansTipler"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{28AAB168-9BB6-4180-AEE8-E8462AAB5125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders7", "ders7\ders7.csproj", "{CCC44D3A-FAAE-44BD-A750-B38C0632D406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ders7", "ders7\ders7.csproj", "{CCC44D3A-FAAE-44BD-A750-B38C0632D406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ödev1", "ödev1\ödev1.csproj", "{B8B54D9A-35BC-41C0-8486-3B39531B704C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{CCC44D3A-FAAE-44BD-A750-B38C0632D406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCC44D3A-FAAE-44BD-A750-B38C0632D406}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCC44D3A-FAAE-44BD-A750-B38C0632D406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B54D9A-35BC-41C0-8486-3B39531B704C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B54D9A-35BC-41C0-8486-3B39531B704C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B54D9A-35BC-41C0-8486-3B39531B704C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B54D9A-35BC-41C0-8486-3B39531B704C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
